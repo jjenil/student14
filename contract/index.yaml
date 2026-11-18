@@ -1,5 +1,6 @@
 openapi: 3.0.0
 info:
+  description: This is a description
   title: User API
   version: 1.0.0
 paths:
