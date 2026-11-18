@@ -1,0 +1,6 @@
+name: Local
+values:
+  - key: baseUrl
+    value: 'https://customer-education.postmanlabs.com'
+  - key: apiKey
+    value: ''
